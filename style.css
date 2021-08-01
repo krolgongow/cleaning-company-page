@@ -346,6 +346,13 @@
     line-height: 60px;
     font-size: 17px;
   }
+  .header {
+    background-image: url(assets/main_mobile.jpg);
+    background-size: cover;
+  }
+  .header__video {
+    display: none;
+  }
   .header__h1 {
     top: 27%;
     left: 8%;
